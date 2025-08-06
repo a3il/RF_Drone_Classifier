@@ -16,6 +16,11 @@
 This repository contains code and resources for **drone detection and classification** using radio frequency (RF) signals. We leverage deep learning models (MobileNet & Xception) on spectrogram representations of RF data to accurately identify and categorize drone types and flight activities.
 
 ---
+<img width="800" height="600" alt="tsne_embeddings_3" src="https://github.com/user-attachments/assets/1b5aceaa-4746-4a07-b989-dd47128c86b5" />
+<img width="800" height="600" alt="tsne_embeddingss" src="https://github.com/user-attachments/assets/1f451d72-3ca0-4427-b892-a72bd463b09e" />
+<img width="477" height="420" alt="tsne_embeddingss1" src="https://github.com/user-attachments/assets/3ce1d565-02b0-40bc-af79-b3f1988a406c" />
+<img width="800" height="600" alt="tsne_embeddings_3" src="https://github.com/user-attachments/assets/bc28891a-f4ae-44ea-8af4-238f41fdc050" />
+
 
 ## 🎯 Objectives
 
@@ -138,6 +143,17 @@ Xception	4-class	97.6%
     Training Curves: Loss & accuracy over epochs
 
     Confusion Matrices: Class-level performance
+<img width="800" height="600" alt="tsne_embeddings_3" src="https://github.com/user-attachments/assets/c5795ec7-8999-40d6-b986-65629ed97ac4" />
+<img width="640" height="480" alt="val_tsne" src="https://github.com/user-attachments/assets/9a33a702-8d48-46a3-8cc0-bb77fd18c48c" />
+<img width="1000" height="1000" alt="tsne_plot_mob_4epoch" src="https://github.com/user-attachments/assets/13472fa2-8854-4443-b9d5-b64de823776a" />
+<img width="1000" height="1000" alt="tsne_plot(1)" src="https://github.com/user-attachments/assets/46464f8d-00f9-4ede-a0ac-60f5c3c3cc37" />
+<img width="477" height="420" alt="tsne_embeddingss1" src="https://github.com/user-attachments/assets/cddb1a35-d850-432f-a2ed-03363bf27b95" />
+<img width="800" height="600" alt="tsne_embeddingss1(1)" src="https://github.com/user-attachments/assets/aa1fa016-812c-419e-8398-08005f584410" />
+<img width="800" height="600" alt="tsne_embeddingss" src="https://github.com/user-attachments/assets/4c472d90-5a70-430d-af57-0ed0c014684d" />
+<img width="800" height="800" alt="tsne" src="https://github.com/user-attachments/assets/0c118a2a-adc8-4b92-87f0-29052cb4db84" />
+<img width="640" height="480" alt="train_tsne" src="https://github.com/user-attachments/assets/0d14d4bf-6320-4852-9614-afbbde735fd8" />
+<img width="640" height="480" alt="4 Class_MobNetTuned_glorot_uniform_relu" src="https://github.com/user-attachments/assets/98c6c0f0-ff86-4a0a-98fc-7865388123c2" />
+<img width="600" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/98117f95-bfb7-45ad-8236-6fd2f545c5b5" />
 
 See example plots in notebooks/.
 🎓 Citation
