@@ -17,6 +17,7 @@ This repository contains code and resources for **drone detection and classifica
 
 ---
 <img width="800" height="600" alt="tsne_embeddings_3" src="https://github.com/user-attachments/assets/1b5aceaa-4746-4a07-b989-dd47128c86b5" />
+<img width="1000" height="800" alt="confusion_matrix(1)" src="https://github.com/user-attachments/assets/34adc262-6ae9-4e12-8e50-d7dd1bc9c340" />
 <img width="800" height="600" alt="tsne_embeddingss" src="https://github.com/user-attachments/assets/1f451d72-3ca0-4427-b892-a72bd463b09e" />
 <img width="477" height="420" alt="tsne_embeddingss1" src="https://github.com/user-attachments/assets/3ce1d565-02b0-40bc-af79-b3f1988a406c" />
 <img width="800" height="600" alt="tsne_embeddings_3" src="https://github.com/user-attachments/assets/bc28891a-f4ae-44ea-8af4-238f41fdc050" />
