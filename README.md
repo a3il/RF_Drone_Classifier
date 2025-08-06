@@ -1,6 +1,9 @@
 # dronedetection
 Drone Detection and Classification Using RF Signals," Division of Computer Science, Indian Institute of Technology Patna, Bihta, 2024
 
+[Drone Detection Paper.pdf](https://github.com/user-attachments/files/21615363/Drone.Detection.pdf)
+
+
 # Drone Detection and Classification using RF Signals
 
 **Author:** Adil Ansari  
